@@ -1,0 +1,11 @@
+/Users/Guest/Desktop/greaterGame/obj/Debug/netcoreapp2.2/greaterGame.csprojAssemblyReference.cache
+/Users/Guest/Desktop/greaterGame/obj/Debug/netcoreapp2.2/greaterGame.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/greaterGame/obj/Debug/netcoreapp2.2/greaterGame.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/greaterGame/obj/Debug/netcoreapp2.2/greaterGame.AssemblyInfo.cs
+/Users/Guest/Desktop/greaterGame/bin/Debug/netcoreapp2.2/greaterGame.deps.json
+/Users/Guest/Desktop/greaterGame/bin/Debug/netcoreapp2.2/greaterGame.runtimeconfig.json
+/Users/Guest/Desktop/greaterGame/bin/Debug/netcoreapp2.2/greaterGame.runtimeconfig.dev.json
+/Users/Guest/Desktop/greaterGame/bin/Debug/netcoreapp2.2/greaterGame.dll
+/Users/Guest/Desktop/greaterGame/bin/Debug/netcoreapp2.2/greaterGame.pdb
+/Users/Guest/Desktop/greaterGame/obj/Debug/netcoreapp2.2/greaterGame.dll
+/Users/Guest/Desktop/greaterGame/obj/Debug/netcoreapp2.2/greaterGame.pdb
